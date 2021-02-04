@@ -9,11 +9,11 @@
     <RepositoryType>Git</RepositoryType>
     <Copyright>(c) 2021 chardon</Copyright>
     <Description>A simple program to manage Xamarin theme resource dictionary.</Description>
-    <AssemblyVersion>1.0.0.1</AssemblyVersion>
-    <FileVersion>1.0.0.1</FileVersion>
-    <PackageReleaseNotes>Dependency compatibility change</PackageReleaseNotes>
+    <AssemblyVersion>2.0.0.0</AssemblyVersion>
+    <FileVersion>2.0.0.0</FileVersion>
+    <PackageReleaseNotes></PackageReleaseNotes>
     <PackageProjectUrl>https://www.nuget.org/packages/XamarinThemeManager</PackageProjectUrl>
-    <Version>1.0.0.1</Version>
+    <Version>2.0.0.0</Version>
   </PropertyGroup>
 
   <ItemGroup>
