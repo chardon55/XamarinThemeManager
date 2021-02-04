@@ -7,11 +7,18 @@
     <PackageLicenseFile>LICENSE</PackageLicenseFile>
     <RepositoryUrl>https://github.com/chardon55/XamarinThemeManager.git</RepositoryUrl>
     <RepositoryType>Git</RepositoryType>
+    <Copyright>(c) 2021 chardon</Copyright>
+    <Description>A simple program to manage Xamarin theme resource dictionary.</Description>
+    <AssemblyVersion>1.0.0.1</AssemblyVersion>
+    <FileVersion>1.0.0.1</FileVersion>
+    <PackageReleaseNotes>Dependency compatibility change</PackageReleaseNotes>
+    <PackageProjectUrl>https://www.nuget.org/packages/XamarinThemeManager</PackageProjectUrl>
+    <Version>1.0.0.1</Version>
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="Xamarin.Essentials" Version="1.6.1" />
-    <PackageReference Include="Xamarin.Forms" Version="5.0.0.1931" />
+    <PackageReference Include="Xamarin.Essentials" Version="1.5.0" />
+    <PackageReference Include="Xamarin.Forms" Version="4.5.0.356" />
   </ItemGroup>
 
   <ItemGroup>
