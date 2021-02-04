@@ -4,7 +4,7 @@ using System.Text;
 using Xamarin.Essentials;
 using Xamarin.Forms;
 
-namespace XamarinThemeManager
+namespace Chardon.XamarinThemeManager
 {
     /// <summary>
     /// General theme manager class
