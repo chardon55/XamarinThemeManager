@@ -50,11 +50,13 @@ namespace Chardon.XamarinThemeManager
 
         public void ToDark()
         {
+            ResetTheme(DarkTheme);
             isDarkMode = true;
         }
 
         public void ToLight()
         {
+            ResetTheme(LightTheme);
             isDarkMode = false;
         }
 
